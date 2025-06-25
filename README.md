@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Jesper Anteryd
 
 ## 💼 From Teaching to Tech
-Before transitioning into AI development, I worked as a high school teacher specializing in history of religion and psychology, but i have teached in a
-variety of subjects. My primary interest that got me into teaching was actually a series of travels to Nepal and India when i was in my 20's. Ultimately though teaching was not what i wanted to do for the rest of my life, so i moved on to tech which i have to say I am
+Before transitioning into AI development, I worked as a high school teacher specializing in history of religion and psychology, but i have taught in a variety of subjects. My primary interest that got me into teaching was actually a series of travels to Nepal and India when i was in my 20's. Ultimately though teaching was not what i wanted to do for the rest of my life, so i moved on to tech which i have to say I am
 very happy about doing.
 
 
@@ -38,7 +37,7 @@ Unfortunately, i cannot publish my examination-projects but just let me know and
 That's it! thanks for visiting :)
 
 # 📫 How to Reach Me
-Email: jesper.anteryd.gmail.com
+Email: jesper.anteryd@gmail.com
 
 <!---
 Dyretna/Dyretna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
