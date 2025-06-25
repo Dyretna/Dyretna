@@ -6,14 +6,14 @@ variety of subjects. My primary interest that got me into teaching was actually 
 very happy about doing.
 
 
-## 🌱 My Journey with Python and AI so far...
+## 🌱 My Journey with Development and AI so far...
 I started learning Python on my own in 2023/2024, then applied and tested for an AI/Python Dev program at Teknikhögskolan in Gothenburg, Sweden. 
 In short, what we have covered:
 - First semester: basic python and data analysis, with the standard libraries like numpy, pandas, etc.
 - Second semester: machine learning with sk-learn, then onto DL and the more advanced libraries of Keras and Pytorch.
    
 Writing this at the end of May '25, I’ve just completed my first year! First week into summer, I got restless and decided to read up on Git—now I’ve done my 
-first remote commit on some of my school projects that I think are decent enough (but be nice, though!).
+first remote commit on some of my school projects that I think are decent enough.
 
 
 ## 🎯 Looking for Internship
@@ -21,18 +21,21 @@ I’m currently looking for an internship for my next two semesters:
 - Fall '25: 9 weeks
 - Spring '26: Pretty much the whole semester
 
-If my beginner student-projects looks promising and you have space for an intern, let me know! (Bear in mind I’m new, but check out the learning curve 😉).
+Unfortunately, i cannot publish my examination-projects but just let me know and i will open it for you!
 
 
 ## 🛠️ Plan for summer '25
-- Effective Python skills, like learning Git, etc
-- More OOP
-- Redo some old project with Flask 
+- ~~Effective Python skills, like learning Git, etc~~
+- ~~Basics with Flask / SQLAlchemy~~
+- ~~Basic overview of frontend HTML, CSS and JS)~~
+- An app for exploring fractals (Flask or Tkinter?)
 - Pytorch! most DL i have done is in Keras, but i think pytorch is the way to go...
-- Perhaps look into design patterns
+
+- Read / study :
+   - ~~The Pragmatic Programmer~~
+   - Python OOP (by Lott & Phillips)
 
 That's it! thanks for visiting :)
-
 
 # 📫 How to Reach Me
 Email: jesper.anteryd.gmail.com
