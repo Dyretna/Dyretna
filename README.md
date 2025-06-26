@@ -15,7 +15,7 @@ Writing this at the end of May '25, I’ve just completed my first year! First w
 first remote commit on some of my school projects that I think are decent enough.
 
 
-## Private ML/DL Projects (available on request)
+## Private ML/DL Student Projects (available on request)
 Due to examination policies, several of my machine learning and deep learning projects remain private. I'm happy to share access upon request — here's a quick overview:
 
 - **ML Pipeline Automation in Scikit-Learn**: A modular application to semi-automate training and evaluation of classical ML models. Handles EDA, model selection (classification/regression), plotting, and final deployment.
