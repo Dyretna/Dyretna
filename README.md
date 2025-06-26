@@ -15,14 +15,14 @@ Writing this at the end of May '25, I’ve just completed my first year! First w
 first remote commit on some of my school projects that I think are decent enough.
 
 
-🧠 Private ML/DL Projects (available on request)
+## 🧠 Private ML/DL Projects (available on request)
 Due to examination policies, several of my machine learning and deep learning projects remain private. I'm happy to share access upon request — here's a quick overview:
 
-- ´ML Pipeline Automation in Scikit-Learn´: A modular application to semi-automate training and evaluation of classical ML models. Handles EDA, model selection (classification/regression), plotting, and final deployment.
+- **ML Pipeline Automation in Scikit-Learn**: A modular application to semi-automate training and evaluation of classical ML models. Handles EDA, model selection (classification/regression), plotting, and final deployment.
 
-- ´Custom ANN Framework in Keras´: A multi-layer Perceptron system with subclassed architectures for classification and regression. Includes automatic preprocessing, training logic, and evaluation plots — demonstrated in Jupyter notebooks for both binary and multiclass problems.
+- **Custom ANN Framework in Keras**: A multi-layer Perceptron system with subclassed architectures for classification and regression. Includes automatic preprocessing, training logic, and evaluation plots — demonstrated in Jupyter notebooks for both binary and multiclass problems.
 
-- ´Modular RNN Time Series Engine in Keras´: Designed to train separate LSTM models per input feature for efficient time-series forecasting. Enables scalable experimentation and recursive predictions without requiring high-end hardware.
+- **Modular RNN Time Series Engine in Keras**: Designed to train separate LSTM models per input feature for efficient time-series forecasting. Enables scalable experimentation and recursive predictions without requiring high-end hardware.
 
 Just shoot me a message if you'd like to explore any of them!
 
