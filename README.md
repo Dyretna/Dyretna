@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Jesper Anteryd
+# Hi, I’m Jesper Anteryd
 
-## 💼 From Teaching to Tech
+## From Teaching to Tech
 Before transitioning into AI development, I worked as a high school teacher specializing in history of religion and psychology, but i have taught in a variety of subjects. My primary interest that got me into teaching was actually a series of travels to Nepal and India when i was in my 20's. Ultimately though teaching was not what i wanted to do for the rest of my life, so i moved on to tech which i have to say I am
 very happy about doing.
 
 
-## 🌱 My Journey with Development and AI so far...
+## My Journey with Development and AI so far...
 I started learning Python on my own in 2023/2024, then applied and tested for an AI/Python Dev program at Teknikhögskolan in Gothenburg, Sweden. 
 In short, what we have covered:
 - First semester: basic python and data analysis, with the standard libraries like numpy, pandas, etc.
@@ -15,7 +15,7 @@ Writing this at the end of May '25, I’ve just completed my first year! First w
 first remote commit on some of my school projects that I think are decent enough.
 
 
-## 🧠 Private ML/DL Projects (available on request)
+## Private ML/DL Projects (available on request)
 Due to examination policies, several of my machine learning and deep learning projects remain private. I'm happy to share access upon request — here's a quick overview:
 
 - **ML Pipeline Automation in Scikit-Learn**: A modular application to semi-automate training and evaluation of classical ML models. Handles EDA, model selection (classification/regression), plotting, and final deployment.
@@ -26,13 +26,13 @@ Due to examination policies, several of my machine learning and deep learning pr
 
 Just shoot me a message if you'd like to explore any of them!
 
-## 🎯 Looking for Internship
+## Looking for Internship
 I’m currently looking for an internship for my next two semesters:
 - Fall '25: 9 weeks
 - Spring '26: Pretty much the whole semester
 
 
-## 🛠️ Plan for summer '25
+## Plan for summer '25
 - ~~Effective Python skills, like learning Git, etc~~
 - ~~Basics with Flask / SQLAlchemy~~
 - ~~Basic overview of frontend HTML, CSS and JS)~~
@@ -45,7 +45,7 @@ I’m currently looking for an internship for my next two semesters:
 
 That's it! thanks for visiting :)
 
-# 📫 How to Reach Me
+# How to Reach Me
 Email: jesper.anteryd@gmail.com
 
 <!---
