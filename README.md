@@ -16,8 +16,8 @@ first remote commit on some of my school projects that I think are decent enough
 
 That's it! thanks for visiting :)
 
-# How to Reach Me
-Email: jesper.anteryd@gmail.com
+# Reach Out!
+Email: jesper.anteryd@proton.me
 
 <!---
 Dyretna/Dyretna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
