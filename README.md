@@ -5,16 +5,15 @@ Before transitioning into AI development, I worked as a high school teacher spec
 very happy about doing.
 
 
-## My Journey with Development and AI so far...
+## My Journey with Development and AI so far... (march '26)
 I started learning Python on my own in 2023/2024, then applied and tested for an AI/Python Dev program at Teknikhögskolan in Gothenburg, Sweden. 
 In short, what we have covered:
-- First semester: basic python and data analysis, with the standard libraries like numpy, pandas, etc.
-- Second semester: machine learning with sk-learn, then onto DL and the more advanced libraries of Keras and Pytorch.
+- 1st semester: basic python and data analysis, with the standard libraries like numpy, pandas, etc.
+- 2nd semester: machine learning with sk-learn, then onto DL and the more advanced libraries of Keras and Pytorch.
+- 3rd semester: effective python and applied AI courses. includes design, ComputerVision and LLMs, RAG, and langchain. Shorter internship.
+- 5th semester: (current) Internship.
    
-Writing this at the end of May '25, I’ve just completed my first year! First week into summer, I got restless and decided to read up on Git—now I’ve done my 
-first remote commit on some of my school projects that I think are decent enough.
-
-That's it! thanks for visiting :)
+thanks for visiting :)
 
 # Reach Out!
 Email: jesper.anteryd@proton.me
