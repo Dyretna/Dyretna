@@ -11,7 +11,7 @@ In short, what we have covered:
 - 1st semester: basic python and data analysis, with the standard libraries like numpy, pandas, etc.
 - 2nd semester: machine learning with sk-learn, then onto DL and the more advanced libraries of Keras and Pytorch.
 - 3rd semester: effective python and applied AI courses. includes design, ComputerVision and LLMs, RAG, and langchain. Shorter internship.
-- 5th semester: (current) Internship.
+- 4th semester: (current) Internship.
    
 thanks for visiting :)
 
